@@ -33,7 +33,7 @@ La aplicación para la que estamos diseñando la interface es una
 aplicación con una [interface gráfica de
 escritorio](https://en.m.wikipedia.org/wiki/Graphical_user_interface).
 
-> :note: El servicio proporciona más utilidades e información que la
+> **Note** El servicio proporciona más utilidades e información que la
 > que maneja nuestra aplicación.
 
 El caso de uso principal es realizar consultas al servicio
@@ -108,7 +108,8 @@ faciliten su comprensión.
 
 > :warning: La aplicación que estamos desarrollando realiza peticiones
 > de red al servidor `cheat.sh`. No olvides que estas peticiones
-> pueden fallar. El diseño de la inteface debe incluir estos casos.
+> pueden fallar. El diseño de la inteface debe incluir estas
+> situaciones
 
 
 ### La parte dinámica
