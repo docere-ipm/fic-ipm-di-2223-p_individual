@@ -87,10 +87,9 @@ Para esta práctica vamos a usar la siguiente definición:
 > paper or a whiteboard.
 
 
-> :note: Como ya hemos comentado, para la definición que acabamos
-> de ofrecer, algunos autores prefieren el término _wireframe_ a
-> secas, mientras que otros prefieren el término _low fidelity
-> wireframe_.
+> **Note** Como ya hemos comentado, para la definición que acabamos de
+> ofrecer, algunos autores prefieren el término _wireframe_ a secas,
+> mientras que otros prefieren el término _low fidelity wireframe_.
 
 Para ilustrar esta definición la siguiente imagen muestra las
 versiones low, medium y high fidelity de un mismo diseño:
